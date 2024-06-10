@@ -1,1 +1,1 @@
-# my-proj
+# 1D-proj
